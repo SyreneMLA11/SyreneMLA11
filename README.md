@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SyreneMLA11
-- 👀 I’m interested in Computer Science and Programming in General
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python,  Visual Basic and Scratch
 - 💞️ I’m looking to collaborate on fun, interesting and challenging programs
 - 📫 How to reach me madelinestudyroom@gmail.com
