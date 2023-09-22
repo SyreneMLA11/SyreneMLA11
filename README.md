@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python,  Visual Basic and Scratch
 - 💞️ I’m looking to collaborate on fun, interesting and challenging programs
-- 📫 How to reach me madelinestudyroom@gmail.com
+- 📫 How to reach me madelinelouiseag@gmail.com
 
 <!---
 SyreneMLA11/SyreneMLA11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
