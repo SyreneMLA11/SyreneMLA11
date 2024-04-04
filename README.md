@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SyreneMLA11
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python,  Visual Basic, Java, Scratch, HTML, CSS and C++.
-- 💞️ I’m looking to collaborate on fun, interesting and challenging programs
+- 👀 I’m studying Computer Science at UC Berkeley and I'm interested in Game Development
+- 🌱 I’m currently learning Python, Visual Basic, Javascript, Scratch, HTML, CSS, C++ and C#
+- 🎯 I’ve had prior experience in 3D Modelling, XR-AR-VR programming in Unity  
+- 💞️ I’m looking to collaborate on fun, interesting, and challenging programs!
 - 📫 How to reach me madelinelouiseag@gmail.com
 
 <!---
