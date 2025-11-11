@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SyreneMLA11
-- 👀 I’m studying Computer Science & Data Science at UC Berkeley and I'm interested in Game Development & SWE
-- 🌱 I’m currently learning Python, Java, Visual Basic, Javascript, Scratch, HTML, CSS, C, C++ and C#
+- 👋 Hi, I’m Maddy aka @SyreneMLA11
+- 👀 I’m studying Computer Science & Data Science at UC Berkeley and I'm interested in SWE, Product Management & Game/XR Development
+- 🌱 I’m currently learning Python, Java, C++, C# JavaScript, SQL, HTML/CSS & strengthening full-stack skills
 - 🎯 I’ve had prior experience in 3D Modelling, XR-AR-VR programming in Unity  
-- 💞️ I’m looking to collaborate on fun, interesting, and challenging programs!
-- 📫 How to reach me maddy11@berkeley.edu
+- 💞️ I’m looking to collaborate on creative, challenging, and impactful projects that blend tech &  design
+- 📫 How to reach me maddy11@berkeley.edu or https://www.linkedin.com/in/madeline-louise-agusalim/ 
 
 <!---
 SyreneMLA11/SyreneMLA11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
