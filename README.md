@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maddy aka @SyreneMLA11
-- 👀 I’m studying Computer Science & Data Science at UC Berkeley and I'm interested in SWE, Product Management & Game/XR Development
+- 👀 I’m studying Computer Science & Data Science at UC Berkeley and I'm interested in SWE, PM & Game/XR Development
 - 🌱 I’m currently learning Python, Java, C++, C# JavaScript, SQL, HTML/CSS & strengthening full-stack skills
 - 🎯 I’ve had prior experience in 3D Modelling, XR-AR-VR programming in Unity  
 - 💞️ I’m looking to collaborate on creative, challenging, and impactful projects that blend tech &  design
